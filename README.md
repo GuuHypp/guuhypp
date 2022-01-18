@@ -1,4 +1,4 @@
-### "Olá mundo", eu sou o Gustavo Morales 👋
+### "Olá mundo", meu nome é Gustavo Morales 👋
 
 
 
