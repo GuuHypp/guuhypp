@@ -1,9 +1,10 @@
 ### "Olá mundo", meu nome é Gustavo Morales 👋
 
 
-
+<!--
 - 🔭 Venho buscando vagas e clientas na área de TI, especificamente com desenvolvimento.
 - 🌱 No momento estou fazendo um curso de Desenvolvimento Web Completo, com mais de 20 linguagens de programação e um curso de Beatmaking.
+-->
 - 📫 Entre em contato por telefone/WhatsApp +55 (11) 97385-5848, pelo [LinkedIn](https://www.linkedin.com/in/gustavo-morales28/), ou e-mail gustavo.mmorales@yahoo.com.br
 
 <br><br><br>
